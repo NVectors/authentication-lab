@@ -202,4 +202,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+lab_9_answers.txt
+
 # End of https://www.gitignore.io/api/macos,linux,python,windows,visualstudiocode
+
+
